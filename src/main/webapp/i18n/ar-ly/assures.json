@@ -1,0 +1,24 @@
+{
+  "cnasStatApp": {
+    "assures": {
+      "home": {
+        "title": "Assures",
+        "createLabel": "Create a new Assures",
+        "createOrEditLabel": "Create or edit a Assures",
+        "notFound": "No Assures found"
+      },
+      "created": "A new Assures is created with identifier {{ param }}",
+      "updated": "A Assures is updated with identifier {{ param }}",
+      "deleted": "A Assures is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Assures {{ id }}?"
+      },
+      "detail": {
+        "title": "Assures"
+      },
+      "noassure": "Noassure",
+      "nom": "Nom",
+      "prenom": "Prenom"
+    }
+  }
+}
