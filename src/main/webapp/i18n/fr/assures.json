@@ -1,0 +1,24 @@
+{
+  "cnasStatApp": {
+    "assures": {
+      "home": {
+        "title": "Assures",
+        "createLabel": "Créer un nouveau Assures",
+        "createOrEditLabel": "Créer ou éditer un Assures",
+        "notFound": "Aucun Assures trouvé"
+      },
+      "created": "Un nouveau Assures a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Assures avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Assures avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Assures {{ id }} ?"
+      },
+      "detail": {
+        "title": "Assures"
+      },
+      "noassure": "Noassure",
+      "nom": "Nom",
+      "prenom": "Prenom"
+    }
+  }
+}
